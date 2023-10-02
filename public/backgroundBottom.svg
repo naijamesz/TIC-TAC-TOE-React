@@ -1,0 +1,42 @@
+ <svg
+      class="bottom"
+      version="1.1"
+      id="Layer_1"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      width="1366px"
+      height="768px"
+      viewBox="0 0 1366 768"
+      style="enable-background: new 0 0 1366 768"
+      xml:space="preserve"
+    >
+      <style type="text/css">
+        .st0 {
+          opacity: 0.9;
+          clip-path: url(#SVGID_00000008864980713690673000000008030269126048501384_);
+          fill: #ffffff;
+        }
+      </style>
+      <g>
+        <defs>
+          <rect id="SVGID_1_" x="0" width="1366" height="768" />
+        </defs>
+        <clipPath
+          id="SVGID_00000084520366776961719290000007852675251268589230_"
+        >
+          <use xlink:href="#SVGID_1_" style="overflow: visible" />
+        </clipPath>
+        <path
+          style="
+            opacity: 0.9;
+            clip-path: url(#SVGID_00000084520366776961719290000007852675251268589230_);
+            fill: #ffffff;
+          "
+          d="
+		M-145.54,455.81c0,0,100.46-259.2,251.16-68.32s-31.81,311.44,55.26,363.35S375.2,643.52,453.9,700.53
+		c78.7,57.01,60.74,170.87,58,216.08s-555.3,118.88-555.3,118.88L-145.54,455.81z"
+        />
+      </g>
+    </svg>
